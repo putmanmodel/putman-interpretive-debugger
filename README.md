@@ -144,39 +144,39 @@ The included screenshots capture both the top-level compare states and selected 
 
 ## Screenshots
 
-The repository includes a small screenshot set in the top-level 'screenshots/' folder showing the debugger in representative states.
+The repository includes a small screenshot set in the top-level `screenshots/` folder showing the debugger in representative states.
 
 ### Top-level compare views
 
-- `screenshots/memory-default-top.png`  
-  Default `memory` compare state showing context-dependent reconstruction between Software Engineering and Runtime Governance.
-
-- `screenshots/memory-high-rigidity-top.png`  
-  High-rigidity `memory` compare state showing narrower bridge accessibility and tighter candidate competition.
-
-- `screenshots/snake-default-top.png`  
-  Default `snake` compare state showing the split between Wildlife / Biology and Social / Narrative.
-
-- `screenshots/snake-high-rigidity-top.png`  
-  High-rigidity `snake` compare state showing stronger cross-domain narrowing and reduced bridge accessibility.
+#### `screenshots/memory-default-top.png`
+Default `memory` compare state showing context-dependent reconstruction between Software Engineering and Runtime Governance.
 
 ![Memory default compare view](./screenshots/memory-default-top.png)
 
+#### `screenshots/memory-high-rigidity-top.png`
+High-rigidity `memory` compare state showing narrower bridge accessibility and tighter candidate competition.
+
 ![Memory high-rigidity compare view](./screenshots/memory-high-rigidity-top.png)
 
+#### `screenshots/snake-default-top.png`
+Default `snake` compare state showing the split between Wildlife / Biology and Social / Narrative.
+
 ![Snake default compare view](./screenshots/snake-default-top.png)
+
+#### `screenshots/snake-high-rigidity-top.png`
+High-rigidity `snake` compare state showing stronger cross-domain narrowing and reduced bridge accessibility.
 
 ![Snake high-rigidity compare view](./screenshots/snake-high-rigidity-top.png)
 
 ### Detail views
 
-- `screenshots/memory-high-rigidity-detail.png`  
-  Detail view of candidate rankings, pruning, and explanation trace for the high-rigidity `memory` scenario.
-
-- `screenshots/snake-high-rigidity-detail.png`  
-  Detail view of candidate rankings, pruning, and explanation trace for the high-rigidity `snake` scenario.
+#### `screenshots/memory-high-rigidity-detail.png`
+Detail view of candidate rankings, pruning, and explanation trace for the high-rigidity `memory` scenario.
 
 ![Memory high-rigidity detail view](./screenshots/memory-high-rigidity-detail.png)
+
+#### `screenshots/snake-high-rigidity-detail.png`
+Detail view of candidate rankings, pruning, and explanation trace for the high-rigidity `snake` scenario.
 
 ![Snake high-rigidity detail view](./screenshots/snake-high-rigidity-detail.png)
 
